@@ -1,10 +1,10 @@
 # Product Page (No bootstrap)
 
-Doing layouts is one of the most dificult things in CSS/HTML, it has never been a good technology for that purspose, which is weird and sad because it's basically its main focus. 🤔🤪
+Doing layouts is one of the most difficult things in CSS/HTML, it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
 
 But in the past couple of years everything has been improving, since 2018 we can use now the CSS rules `display: flex;` and `display: grid;`.
 
-There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% of the world websites.](https://w3techs.com/technologies/details/js-bootstrap), Foundation, Material UI, etc. But this exercise is focused mainly on polishing your plain CSS/HTML skils.
+There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% of the world websites.](https://w3techs.com/technologies/details/js-bootstrap), Foundation, Material UI, etc. But this exercise is focused mainly on polishing your plain CSS/HTML skills.
 
 # 📝 Instructions
 
@@ -16,8 +16,8 @@ Use the flex-box CSS rules, here is a great document explaining about it: https:
 
 # 🥵 No one tells you this:
 
-- 40% of the errors when doing HTML are missing or misplaced closing tags, to avoid that you should open a close the tag at the same time and afterwards you fill the tag content.
+- 40% of the errors when doing HTML are missing or misplaced closing tags, to avoid that you should open a close the tag at the same time and then you fill the tag content.
 
-- Picking the names of the CSS classes is the real trick: The names of the classes shape your mindset. Instead of using a business oriented naming like product1, product2, about-us, etc. You should use behavior-oriented names like `menu` or `horizontal-list`, etc. That will help you re-use classes a lot.
+- Picking the names of the CSS classes is the real trick: The names of the classes shape your mindset. Instead of using business-oriented naming like product1, product2, about-us, etc. You should use behavior-oriented names like `menu` or `horizontal-list`, etc. That will help you re-use classes a lot.
 
-- Don't use the `<img>` for images that will be uploaded later by a user, you should insted use `<divs>` with background images, the image tag is only used for little things.
+- Don't use the `<img>` for images that will be uploaded later by a user, you should instead use `<div>` with background images, the image tag is only used for little things.
