@@ -1,58 +1,9 @@
 /* resets */
-* {box-sizing: border-box;}
-ul{ padding: 0; margin: 0; }
-ul li,ol li{ list-style: none;}
-img{ max-height: 100px; max-width: 100px;}
-body{ font-family: monospace;}
-a{color: black;}
-/* layout */
-nav{ border-bottom: 1px solid black; padding-bottom: 10px;}
-.container{
-    max-width: 900px;
-    margin: auto;
-}
-.img{ 
-    min-height: 10px; 
-    min-width: 10px; 
-    background-position: center center; 
-    background-size: cover;
-}
-button{ background: black; border: none; color: white;padding: 20px;}
-.grid.horizontal{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-}
-.p-1{ padding: 10px; }
-.m-1{ margin: 5px;}
-.logo{
-    flex-grow: 1;
-    flex-basis: 100px;
-    padding-left: 10px;
-}
-.menu{
-    flex-grow: 2;
-}
-.menu li{
-    margin-right: 10px;
-}
-.menu > ul.align-right{ justify-content: flex-end; }
-.menu > ul.align-right li{ margin-left: 10px; }
 
-.w-50{
-    width: 50%;
-}
 
-.product-gallery .grid.horizontal .img{
-    margin-top: 10px;
-    flex-grow: 1;
-    height: 100px;
-    margin-left: 10px;
-}
-.product-gallery .grid.horizontal .img:first-child{
-    margin-left: 0px;
-}
-.description{
-    border-top: 2px #BDBDBD solid;
-    margin-bottom: 20px
-}
+
+/* behaviours */
+
+
+
+/* speficic */
