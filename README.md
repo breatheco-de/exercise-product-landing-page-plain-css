@@ -1,5 +1,7 @@
 # Product Page (No bootstrap)
 
+![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true)
+
 Doing layouts is one of the most difficult things in CSS/HTML, it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
 
 But in the past couple of years everything has been improving, since 2018 we can use now the CSS rules `display: flex;` and `display: grid;`.
@@ -8,7 +10,7 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 
 # 📝 Instructions
 
-Replicate this exact product page in HTML/CSS. You cannot use any CSS framework and the landing does not have to be responsive.
+Replicate [this exact product page](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true) in HTML/CSS. You cannot use any CSS framework and the landing does not have to be responsive.
 
 Use the images on the `./src/assets` folder.
 
