@@ -2,6 +2,7 @@
 	"slug" : "product-landing-page-plain-css",
 	"title" : "Product Page in plain HTML/CSS",
 	"description": "Create an eCommerce Product Landing Page using standard HTML/CSS, no bootstrap or any other css framework.",
+	"preview": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true",
 	"status": "published",
 	"duration" : 4,
 	"difficulty": "beginner",
