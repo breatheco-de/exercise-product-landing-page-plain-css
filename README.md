@@ -8,7 +8,7 @@ But in the past couple of years everything has been improving, since 2018 we can
 
 There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% of the world websites.](https://w3techs.com/technologies/details/js-bootstrap), Foundation, Material UI, etc. But this exercise is focused mainly on polishing your plain CSS/HTML skills.
 
-# 📝 Instructions
+## 📝 Instructions
 
 Replicate [this exact product page](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true) in HTML/CSS. You cannot use any CSS framework and the landing does not have to be responsive.
 
@@ -20,7 +20,7 @@ Use the flex-box CSS rules, here is a great document explaining about it: https:
 
 This project comes with the necessary files to start working, clone this repository locally or open it with gitpod for a better experience.
 
-# 🥵 No one tells you this:
+## 🥵 No one tells you this:
 
 - 40% of the errors when doing HTML are missing or misplaced closing tags, to avoid that you should open a close the tag at the same time and then you fill the tag content.
 
