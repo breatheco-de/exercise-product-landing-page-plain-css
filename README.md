@@ -16,6 +16,10 @@ Use the images on the `./src/assets` folder.
 
 Use the flex-box CSS rules, here is a great document explaining about it: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+## 🌱  How to start this project
+
+This project comes with the necessary files to start working, clone this repository locally or open it with gitpod for a better experience.
+
 # 🥵 No one tells you this:
 
 - 40% of the errors when doing HTML are missing or misplaced closing tags, to avoid that you should open a close the tag at the same time and then you fill the tag content.
