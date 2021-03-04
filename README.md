@@ -1,6 +1,6 @@
 # Build a Product Landing Page with Plain HTML/CSS
 
-![Product Landing Page Exercise for HTML/CSS](.learn/assets/preview.png)
+![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true)
 
 Doing layouts is one of the most difficult things in CSS/HTML, it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
 

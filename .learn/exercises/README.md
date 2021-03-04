@@ -22,4 +22,4 @@ Open the README.md file located on your project root directory and read carefull
 
 ## Tutorial
 
-You can always watch the ![video solution here](https://www.youtube.com/watch?v=rlLCcpwMBtM).
+You can always watch the [video solution here](https://www.youtube.com/watch?v=rlLCcpwMBtM).
