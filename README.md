@@ -1,6 +1,6 @@
 # Build a Product Landing Page with Plain HTML/CSS
 
-![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true)
+![Product Landing Page Exercise for HTML/CSS](.learn/assets/preview.png)
 
 Doing layouts is one of the most difficult things in CSS/HTML, it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
 
@@ -10,19 +10,17 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 
 ## 📝 Instructions
 
-Replicate [this exact product page](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true) in HTML/CSS. You cannot use any CSS framework and the landing does not have to be responsive.
-
-Use the images on the `./src/assets` folder.
-
-Use the flex-box CSS rules, here is a great document explaining about it: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+1. Replicate [this exact product page](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true) in HTML/CSS. You cannot use any CSS framework and the landing does not have to be responsive.
+2. Use the images on the `./assets` folder.
+3. Use the flex-box CSS rules, here is a great document explaining about it: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## 🌱  How to start this project
 
 1. This project comes with the necessary files to start working.
 2. Clone this repository locally or open it with gitpod for a better experience.
-3. Run the following command to preview your changes: `npx --yes http-server --root ./src`
+3. Run the following command to preview your changes: `npx --yes http-server`
 
-Note: you will have to refresh your website every time you make a change
+Note: you will have to refresh your browser every time you update your code.
 
 ## 🥵 No one tells you this:
 
