@@ -18,7 +18,11 @@ Use the flex-box CSS rules, here is a great document explaining about it: https:
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, clone this repository locally or open it with gitpod for a better experience.
+1. This project comes with the necessary files to start working.
+2. Clone this repository locally or open it with gitpod for a better experience.
+3. Run the following command to preview your changes: `npx --yes http-server --root ./src`
+
+Note: you will have to refresh your website every time you make a change
 
 ## 🥵 No one tells you this:
 
