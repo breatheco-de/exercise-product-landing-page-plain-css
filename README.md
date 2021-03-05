@@ -18,7 +18,7 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Use Gitpod: copy & paste this on your browser: gitpod.io#<https://github.com/breatheco-de/exercise-product-landing-page-plain-css.git>
+a) Use Gitpod: copy & paste this on your browser: gitpod.io#https://github.com/breatheco-de/exercise-product-landing-page-plain-css.git
 
 b) You can clone this repository on your local computer:
 ```sh
