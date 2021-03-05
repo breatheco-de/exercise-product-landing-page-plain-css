@@ -18,13 +18,18 @@ There are also some CSS frameworks like Bootstrap [that is broadly used in ~30% 
 
 This project comes with the necessary files to start working, but you have two options to start:
 
-a) Use Gitpod: copy & paste this on your browser: gitpod.io#https://github.com/breatheco-de/exercise-product-landing-page-plain-css.git
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-product-landing-page-plain-css
 
 b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-product-landing-page-plain-css.git
 ```
-**Remember to run the following command to preview your changes: `npx --yes http-server`**
+**Make sure that you have node.js installed in your computer and run the following command on your terminal to preview your website:**
+
+```sh
+npx --yes http-server 
+```
+
 
 Note: you will have to refresh your browser every time you update your code.
 
