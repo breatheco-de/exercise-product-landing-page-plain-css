@@ -30,7 +30,6 @@ $ git clone https://github.com/breatheco-de/exercise-product-landing-page-plain-
 npx --yes http-server -c-1
 ```
 
-
 Note: you will have to refresh your browser every time you update your code.
 
 ## 🥵 No one tells you this:
