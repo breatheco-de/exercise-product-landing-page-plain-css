@@ -12,7 +12,7 @@ Your goal is to replicate [this exact image](./assets/preview.png).
 2. Click on the terminal and type the following command and press enter to preview your changes: `npx --yes http-server`
 3. A dialog will prompt to "open browser".
 
-![Gitpod Dialog](./assets/prompt.png)
+![Gitpod Dialog](./assets/prompt.png?raw=true)
 
 Note: repeat this process if needed.
 
