@@ -32,6 +32,8 @@ npx --yes http-server -c-1
 
 Note: you will have to refresh your browser every time you update your code.
 
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 ## 🥵 No one tells you this:
 
 - 40% of the errors when doing HTML are missing or misplaced closing tags, to avoid that you should open a close the tag at the same time and then you fill the tag content.
