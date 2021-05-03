@@ -2,7 +2,7 @@
 
 ![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true)
 
-Diseñar o hacer layouts es una de la cosas más difíciles en CSS/HMTL, pero nunca ha sido una buena tecnología para facilitar este proceso, lo que es extraño y triste pues era su principal objetivo.
+Diseñar o hacer layouts es una de la cosas más difíciles en CSS/HMTL, nunca ha sido una buena tecnología para facilitar este proceso, lo que es extraño y triste pues era su principal objetivo.
 
 Sin embargo, en los últimos años las cosas han mejorado, desde el año 2018 podemos usa las reglas CSS `display: flex;` y `display: grid;`.
 
