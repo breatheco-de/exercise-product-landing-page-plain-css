@@ -2,7 +2,7 @@
 
 ![Product Landing Page Exercise for HTML/CSS](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true)
 
-Doing layouts is one of the most difficult things in CSS/HTML, it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
+Doing layouts is one of the most difficult things in CSS/HTML, but it has never been a good technology for that purpose, which is weird and sad because it's its main focus. 🤔🤪
 
 But in the past couple of years everything has been improving, since 2018 we can use now the CSS rules `display: flex;` and `display: grid;`.
 
