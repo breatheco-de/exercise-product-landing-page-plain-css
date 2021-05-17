@@ -2,24 +2,24 @@
 tutorial: https://www.youtube.com/watch?v=rlLCcpwMBtM
 ---
 
-# Welcome!
+# Bienvenido!
 
-Your goal is to replicate [this exact image](../assets/preview.png?raw=true).
+El objetivo es que repliques [exactamente esta imagen](../assets/preview.png?raw=true).
 
-## 🌱  How to start this project
+## 🌱  Cómo iniciar este proyecto
 
-1. Open a new terminal on the menu: `terminal` -> `new terminal`
-2. Click on the terminal and type the following command and press enter to preview your changes: `npx --yes http-server`
-3. A dialog will prompt to "open browser".
+1. Abre una nueva terminal desde el menu: `terminal` -> `new terminal`
+2. Haz clic en la terminal y escribe el siguiente comando y luego presiona enter para previsualizar los cambios: `npx --yes http-server`
+3. Aparecerá un cuadro de diálogo indicando "open browser" o abrir navegador.
 
 ![Gitpod Dialog](../assets/prompt.png?raw=true)
 
-Note: repeat this process if needed.
+Nota: si es necesario, repite este proceso.
 
-## 👩🏽‍🏫 Need more instructions?
+## 👩🏽‍🏫 ¿Necesitas más instrucciones?
 
-Open the README.md file located on your project root directory and read carefully.
+Abre el archivo README.es.md que se encuentra en el directorio raíz de tu proyecto y leélo con atención.
 
 ## Tutorial
 
-You can always watch the [video solution here](https://www.youtube.com/watch?v=rlLCcpwMBtM).
+Tambiñen puedes ver [el video tutorial con la solución](https://www.youtube.com/watch?v=rlLCcpwMBtM).
