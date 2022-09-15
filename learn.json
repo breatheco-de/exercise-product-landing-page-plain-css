@@ -2,7 +2,7 @@
 	"slug" : "product-landing-page-plain-css",
 	"title" : "Product Page in plain HTML/CSS",
 	"description": "Create an eCommerce Product Landing Page using standard HTML/CSS, no bootstrap or any other css framework.",
-	"preview": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true",
+	"preview": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true",
     "status": "published",
     "boilerplate": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css",
 	"duration" : 4,
@@ -11,5 +11,7 @@
 	"technologies": ["html", "css", "flex-box", "layouts", "css-grid"],
 	"talents": [],
 	"video-id": "rlLCcpwMBtM",
-	"timeline":[]
+	"timeline":[],
+    "autoPlay": false,
+    "projectType": "project"
 }
